@@ -72,9 +72,6 @@ export default function RootLayout({
       lang="tr"
       className={`${inter.variable} ${playfair.variable} h-full antialiased scroll-smooth`}
     >
-      <head>
-        <link rel="canonical" href="https://lavantaodakokusu.com.tr" />
-      </head>
       <body className="min-h-full flex flex-col bg-white">
         <StructuredData />
         <Header />
