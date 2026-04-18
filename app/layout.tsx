@@ -28,6 +28,9 @@ export const metadata: Metadata = {
   authors: [{ name: "Lavanta Çubuklu Oda Kokusu" }],
   creator: "Lavanta Çubuklu Oda Kokusu",
   publisher: "Lavanta Çubuklu Oda Kokusu",
+  alternates: {
+    canonical: '/',
+  },
   formatDetection: {
     email: false,
     address: false,
