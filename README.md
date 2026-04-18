@@ -1,36 +1,85 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Lavanta Çubuklu Oda Kokusu Web Sitesi
 
-## Getting Started
+**KARAKAR HOME** için hazırlanmış, %100 SEO uyumlu, modern ve benzersiz Next.js web sitesi.
 
-First, run the development server:
+## 🌟 Özellikler
+
+- ✅ **Next.js 16** - En son teknoloji
+- ✅ **TypeScript** - Tip güvenli kod
+- ✅ **Tailwind CSS** - Modern ve responsive tasarım
+- ✅ **Framer Motion** - Akıcı animasyonlar
+- ✅ **SEO Optimized** - Google, GEO ve AI uyumlu
+- ✅ **Structured Data** - JSON-LD ile zengin snippet'ler
+- ✅ **Mobil Uyumlu** - Tüm cihazlarda mükemmel görünüm
+- ✅ **Hızlı Yükleme** - Optimize edilmiş performans
+
+## 📄 Sayfalar
+
+1. **Ana Sayfa** (`/`) - Ürün tanıtımı, özellikler, faydalar
+2. **Hakkımızda** (`/hakkimizda`) - Şirket hikayesi, değerler, kilometre taşları
+3. **Ürün Detayı** (`/urun-detay`) - Teknik özellikler, içerik, kullanım önerileri
+4. **İletişim** (`/iletisim`) - İletişim bilgileri, çalışma saatleri, SSS
+
+## 🚀 Kurulum
 
 ```bash
+# Bağımlılıkları yükle
+npm install
+
+# Geliştirme sunucusunu başlat
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+
+# Production build
+npm run build
+
+# Production sunucusunu başlat
+npm start
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🎨 Renk Paleti
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- **Ana Renk**: Mor tonları (#9333ea, #7e22ce)
+- **Arka Plan**: Beyaz ve açık mor gradyanlar
+- **Vurgu**: Yeşil (#10b981) ve sarı (#f59e0b)
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 📱 Test
 
-## Learn More
+Tarayıcınızda açın: [http://localhost:3000](http://localhost:3000)
 
-To learn more about Next.js, take a look at the following resources:
+## 🔍 SEO Özellikleri
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- ✅ Meta tags (title, description, keywords)
+- ✅ Open Graph tags (sosyal medya paylaşımları)
+- ✅ Twitter Card tags
+- ✅ Canonical URLs
+- ✅ Sitemap.xml
+- ✅ Robots.txt
+- ✅ Structured Data (Organization, Product, LocalBusiness, Breadcrumb)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 📞 İletişim Bilgileri
 
-## Deploy on Vercel
+- **Telefon**: +90 545 181 4040
+- **E-Posta**: info@lavantaodakokusu.com.tr
+- **Adres**: Esenyalı Mah. Edebali Cad. No:13/A 34903 Pendik / İstanbul
+- **WhatsApp**: https://wa.me/905451814040
+- **Canlı Destek**: https://tawk.to/karakar
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 🌐 Sosyal Medya
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- Facebook: https://www.facebook.com/KARAKARHOME/
+- Instagram: https://www.instagram.com/karakarhome
+- Twitter: https://x.com/karakarhome
+- Pinterest: https://tr.pinterest.com/karakarhome/
+- YouTube: https://www.youtube.com/@KARAKARHOME
+
+## 📦 Sipariş Linki
+
+https://www.karakarhome.com.tr/lavanta-oda-kokusu/
+
+## 🔗 Oda Kokusu Koleksiyonu
+
+https://www.karakarhome.com.tr/oda-kokulari/
+
+## 📝 Lisans
+
+© 2025 KARAKAR HOME. Tüm hakları saklıdır.

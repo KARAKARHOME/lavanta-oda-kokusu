@@ -1,0 +1,9 @@
+# robots.txt for lavantaodakokusu.com.tr
+
+User-agent: *
+Allow: /
+
+Sitemap: https://lavantaodakokusu.com.tr/sitemap.xml
+
+# Disallow admin or private paths (if any in future)
+# Disallow: /admin/
